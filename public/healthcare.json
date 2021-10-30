@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiac Clinic",
+        "description": "Welcome to the Cardiac Clinic, located at 311 West Oak St, Kissimmee, Florida 34741. The Cardiac Clinic is a professional cardiology practice specializing in a comprehensive health care approach for its patients. Our seven physicians are all board certified in Internal Medicine and Cardiovascular Diseases.",
+        "img": "https://i.ibb.co/Dp110cy/service1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Emergency Clinic",
+        "description": "Looking for an emergency clinic near you? SignatureCare Emergency Center’s emergency clinics are open 24 hours and there is one near you.Our emergency clinics offer medical care for adults and children, and our board-certified doctors have the experience.",
+        "img": "https://i.ibb.co/3zLm60f/service2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Precise Diagnosis",
+        "description": "Far too often, medicine today still focuses on treating symptoms rather than identifying and treating the real underlying disease. This can result in inaccurate diagnosis, ineffective treatment, and wasteful spending. Greater diagnostic accuracy is key to expand precision medicine in healthcare, operative, and postoperative management, including the management of complications, in nine primary components of surgery",
+        "img": "https://i.ibb.co/7KtYWgn/service3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Primary Care",
+        "description": "You’re a complex individual with unique needs. When it comes to taking care of your health and wellness, you need a healthcare provider who can take care of you from head to toe.To stay safe and healthy today and in the future.",
+        "img": "https://i.ibb.co/8B860rG/service4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Vascular Surgery",
+        "description": "People with complex and serious conditions of the blood vessels and lymph system (vascular diseases) often find the help they need from Mayo Clinic vascular and endovascular surgeons. The clinic's experts provide coordinated and comprehensive treatment to people of all ages. Conditions treated include peripheral artery disease, aortic disease, mesenteric disease and carotid artery disease.",
+        "img": "https://i.ibb.co/fDrNJff/service5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "General Surgery",
+        "description": "General Surgery is a discipline of surgery having a central core of knowledge embracing anatomy, physiology, metabolism, immunology, nutrition, pathology, wound healing, shock and resuscitation, intensive care, and neoplasia, which are common to all surgical specialties.A general surgeon has specialized knowledge and experience related to the diagnosis, preoperative.",
+        "img": "https://i.ibb.co/4fcBQds/service6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ambulance Service",
+        "description": "Emergency Ambulance Service - Quick And Easily Found At Asksly! Many Products. Easy Acces. Quick Results. Compare Products. Search and Discover. Find Easily. Types: Products Online, Instant Results, Big Variaty, 24/7 Accessible.",
+        "img": "https://i.ibb.co/CQw5LNB/service7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Home HealthCare",
+        "description": "As the name suggests, healthcare comes to your doorsteps offering higher service satisfaction. Home healthcare is an encyclopedic word having varied services including but not limited to medical emergency, nursing, house hold, medication, social activeness, shopping, home security, leisure care and many more.",
+        "img": "https://i.ibb.co/djFMH6d/service8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Child Care",
+        "description": "In 2015, Create Purpose launched the first phase of the Science curriculum with a Garden Based Learning pilot program in one orphanage based on the proven methodology of STEAM Learning (Science, Technology, Engineering, the Arts and Math) using Project Based Learning principles",
+        "img": "https://i.ibb.co/Br2b32Y/service9.jpg"
+    }
+]
